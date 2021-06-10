@@ -1,5 +1,5 @@
 # Geometrics Artwork
-Playing with graphs on MATLAB drawing/sculpting some stuff
+Playing with graphs on MATLAB drawing 3D structures
 
 1. **Double Helix**
 
