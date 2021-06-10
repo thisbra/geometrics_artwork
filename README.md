@@ -1,5 +1,5 @@
-# geometrics_artwork
-Playing with graphs on MATLAB doing geodesics and other stuff
+# Geometrics Artwork
+Playing with graphs on MATLAB drawing/sculpting some stuff
 
 1. **Double Helix**
 
